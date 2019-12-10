@@ -2,7 +2,7 @@
   "name": "static",
   "version": "1.0.0",
   "description": "This is a static template with no bundling",
-  "main": "index.html",
+  "main": "follower_feed_page.html",
   "scripts": {
     "start": "serve"
   },
@@ -10,11 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/codesandbox-app/static-template.git"
   },
-  "keywords": [
-    "static",
-    "template",
-    "codesandbox"
-  ],
+  "keywords": ["template", "codesandbox", "static"],
   "author": "Ives van Hoorne",
   "license": "MIT",
   "bugs": {
